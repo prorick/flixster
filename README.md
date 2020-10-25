@@ -20,7 +20,8 @@ flixster is an app that allows users to browse movies from the [The Movie Databa
 
 ### Notes
 Describe any challenges encountered while building the app.
-The movies in the grid layout were shown as tiny squares. 
+  the movies in the grid layout were shown as tiny squares, so I had to fix that.
+  
 ---
 
 ## Flix Part 1
@@ -42,5 +43,4 @@ The movies in the grid layout were shown as tiny squares.
 
 ### Notes
 Describe any challenges encountered while building the app.
-
-I was stuck on a bug where my build would always fail. 
+  I was stuck on a bug where my build would always fail. 
